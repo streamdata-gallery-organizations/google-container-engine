@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-container-engine.api.streamdata.gallery
+title: Streamdata Gallery Google Container Engine
+url: google-container-engine.streamdata.gallery
 tag: Google Container Engine
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-container-engine
 github_branch: master
 collections:
