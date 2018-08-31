@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Container Engine",
+	"description": "This is a repository of google container engine APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-container-engine.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-container-engine.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Container Engine",
+			"x-api-slug": "google-container-engine",
+			"description": "Google Container Engine is a powerful cluster manager and orchestration system for running your Docker containers. Container Engine schedules your containers into the cluster and manages them automatically based on requirements you define (such as CPU and memory). Its built on the open source Kubernetes system, giving you the flexibility to take advantage of on-premises, hybrid, or public cloud infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/docker-container.png",
+			"humanURL": "https://cloud.google.com/container-engine/",
+			"baseURL": "://container.googleapis.com//",
+			"tags": "Google Container Engine",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-container-engine/master/_listings/google-container-engine/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Container Engine",
+	"include": [
+		{
+			"name": "Google Container Engine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-container-engine/master/_listings/google-container-engine/apis.yaml"
+		}
+	]
+}
